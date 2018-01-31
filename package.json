@@ -1,6 +1,6 @@
 {
   "name": "xiaomi-gap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Xiaomi GAP sensor data reader",
   "main": "index.js",
   "author": "LynxyssCZ@gmail.com",
