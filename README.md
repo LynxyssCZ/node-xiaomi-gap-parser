@@ -7,8 +7,9 @@ Used for parsing data frames from Xiaomi Mijia brand BLE sensors
 ### readServiceData
 In: `Buffer|Array|String`
 
-Out: ```javascript
-reult = {
+Out:
+```javascript
+result = {
 	productId: Number,
 	counter: Number,
 	frameControl: [],
