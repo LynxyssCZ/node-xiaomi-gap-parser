@@ -25,6 +25,7 @@ result = {
 ```
 
 CapabilityBitMask:
+
 Bit | Name | Explanation
 ----|------|------------
 0 | Connectable | True of device is cabable of establishing a connection
