@@ -1,6 +1,6 @@
 {
   "name": "xiaomi-gap-parser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Xiaomi GAP sensor data parser",
   "keywords": [
     "iot",
