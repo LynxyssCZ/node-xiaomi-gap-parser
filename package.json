@@ -2,11 +2,17 @@
   "name": "xiaomi-gap-parser",
   "version": "1.0.1",
   "description": "Xiaomi GAP sensor data parser",
-  "keywords": ["iot", "xiaomi", "mijia", "sensor", "bluetooth"],
+  "keywords": [
+    "iot",
+    "xiaomi",
+    "mijia",
+    "sensor",
+    "bluetooth"
+  ],
   "main": "index.js",
   "author": "LynxyssCZ@gmail.com",
   "license": "ISC",
   "devDependencies": {
-    "noble": "^1.8.1"
+    "noble": "^1.9.1"
   }
 }
